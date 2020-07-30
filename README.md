@@ -1,20 +1,25 @@
-# YYYY Venue
+# 2020 JSM Virtual Conference
 
-## Presentation Title
+## Implementing Version Control with Git as a Learning Objective in Statistics Courses
 
-*Month DD, YYYY*
+*August 4, 2020*
 
 ## Abstract
 
-Compelling abstract text goes here.
+Version control is an essential element of a reproducible workflow deserving due consideration among the learning objectives of statistics courses. This panel will discuss experiences & implementation decisions of several contributing faculty--teaching different courses at different institutions-- who have successfully integrated git into one or more statistics courses in order to teach version control. The various approaches described highlight lessons learned and implementation strategy based on student audience, course type, software choices, and assessment practices with a goal of providing the audience motivation for why github is needed and demonstrate a range of implementations across a variety of courses and student populations.
 
-
-![This resource page: INSERT URL](QRcode.png)
+![gh-pages for Repo: INSERT URL](QRcode.png)
 
 
 ## Resource List
 
-  - [Presentation Slides (PDF)]()
+  - [Beckman (PDF)]()
+  - [Sullivan (PDF)]()
+  - [Glanz (PDF)]()
+  - Maria video
+  - Mine video
+  
+## Other helpful resources
   - [Supporting Resource (Link)]()
   - [Another Resource (Link)]()
 
@@ -22,11 +27,4 @@ Compelling abstract text goes here.
 
 ## Contact
 
-Matthew Beckman  
-Department of Statistics  
-Penn State University  
-University Park, PA 16802  
-
-email: mdb268 [at] psu [dot] edu  
-website: <https://mdbeckman.github.io/>  
 
