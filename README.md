@@ -1,6 +1,6 @@
 # 2020 JSM Virtual Conference
 
-## Implementing Version Control with Git as a Learning Objective in Statistics Courses
+## Panel: Implementing Version Control with Git as a Learning Objective in Statistics Courses
 
 *August 4, 2020*
 
@@ -8,18 +8,18 @@
 
 Version control is an essential element of a reproducible workflow deserving due consideration among the learning objectives of statistics courses. This panel will discuss experiences & implementation decisions of several contributing faculty--teaching different courses at different institutions-- who have successfully integrated git into one or more statistics courses in order to teach version control. The various approaches described highlight lessons learned and implementation strategy based on student audience, course type, software choices, and assessment practices with a goal of providing the audience motivation for why github is needed and demonstrate a range of implementations across a variety of courses and student populations.
 
-![This webpage: https://mdbeckman.github.io/JSM2020-Virtual/](QRcode.png)
+![QR code for this page: https://mdbeckman.github.io/JSM2020-Virtual/](QRcode.png)
 
 
 ## Agenda
 
-  - Nicholas Horton: Welcome and introduction
-  - Matthew Beckman: [Motivation (slides; PDF)]()
+  - Nick Horton: Welcome and introduction
+  - Matt Beckman: [Motivation (slides; PDF)](202008-Beckman-Slides.pdf)
   - Adam Sullivan: [Industry & Academic Preparedness (slides; PDF)]()
-  - Hunter Glanz: [Enough Git (slides; PDF)]()
-  - Maria Tackett (video): 
+  - Hunter Glanz: [Git & GitHub Basics (slides; PDF)]()
+  - Maria Tackett (video): *Coming soon...*
   - Panel: Experiences implementing Git as learning objective in statistics courses
-  - Mine Cetinkaya-Rundel: Common Themes
+  - Mine Cetinkaya-Rundel (video): Common themes (*Coming soon...*)
   - Panel: Q & A
   
 ## Key resources that expand on content in this session
