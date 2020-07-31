@@ -24,46 +24,72 @@ library(kableExtra)
 
 ```
 
-- From the skeptics...
-
-- Seriously?  *Another* learning objective to squeeze in??
-- *Which* statistics course?
-- Can't they just pick it up when they need it? 
-- In fact, *do* they even need it?
+# Who cares?
 
 
-# Outline
+- (2014) ASA Curriculum Guidelines for Undergraduate programs in Statistical Science
+- CS education calls for VC in the curriculum (Haaranen & Lehtinen, 2015; Zagalsky et al., 2015)
+- 2017 Kaggle Study
+    - almost 17,000 responses
+    - over a third reported using a VC tool
+    - 58% of those using VC use Git
 
-- Advisory committee to NSF: Reproducibility describes "the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results... Reproducibility is a minimum necessary condition for a finding to be believable and informative."
 
-- (computational) Reproducibility: 
-    - self-contained (source data, code book, wrangling script, analysis script, final reporting)
-    - all results replicated (e.g., the code "just works")
-    - easy to verify results or update with new data
-- Version control
-    - maintains the evolution of the project
-    - collaboration among multiple contributors
-    - self-collaboration with multiple computers
-    - branches permit parallel development
-- Ethical practice
-    - Any analysis may require hundreds of tiny decisions
-    - Work products often intended for audience without technical expertise to scrutinize those decisions 
-- Academic Preparedness
+
+# Reproducibility: 
+
+- completely self-contained including...
+    - source data
+    - code book
+    - all data wrangling/prep steps
+    - recreate all analysis, models, visuals
+    - final reporting
+- easy to verify results or refresh if source data updates
+- e.g., all code "just works" with no changes needed
+
+ 
+# Version control
+
+- maintains the evolution of the project
+- safely explore alternative solutions/ideas in parallel
+
+![exploring parallel solutions (<https://guides.github.com/activities/hello-world/>)](branching.png){ width=95% }
+
+# Version control 
+
+- collaboration among users
+- self-collaboration--e.g., RStudio Desktop and RStudio Server
+
+![Collaboration schematic](Basic-GitHub-RStudio-Workflow.png){ width=95%}
+
+
+
+# Reproducibility $\ne$ Version Control
+
+- Sometimes lumped together as if they're one in the same, and it's tempting to speak of Git(Hub) as a panacea... 
+- They aren't and it isn't... 
+
+Our motivation: invest in good habits with a professional workflow designed to streamline **both** virtues.
+
+
+# Ethical practice
+
+- Any analysis may require hundreds of tiny decisions
+- These decisions may necessarily be handled by a single person
+- Work products are often intended for audience without technical expertise to scrutinize those decisions 
+
+### With reproducibility & version control
+
+- all decisions are documented
+- all results can be checked
+- proper scrutiny is possible (now or in future)
+
+# Industry & Academic Preparedness
     - programming is a collaborative sport
     - effective entry point for research participation
 - Industry Preparedness
     - programming is a collaborative sport
     - quite common to refresh standard reports 
-
-We often lump together Reproducbility and VC as if they're one in the same and speak of Git(Hub) as a panacea.  They aren't and it isn't, but the investment in good habits with a professional workflow pays off enormously in the long run...
-
-- 2014 ASA Curriculum Guidelines push for reproducibility
-- CS education calls for VC in the curriculum (Haaranen & Lehtinen, 2015; Zagalsky et al., 2015)
-- 2017 Kaggle Study
-    - 16k responses
-    - over a third reported using a VC tool
-    - 58% of those using VC use Git
-    - [aside] **a third**... I'll bet there's *something* in one of my classes that fewer than a third of the students are likely to ever use again and could be replaced with VC.  (anyone ever teach Latin Square designs?)
 
 
 # Slide 1
