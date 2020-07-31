@@ -215,3 +215,4 @@ TSWLatexianTemp*
 *.lpz
 .Rproj.user
 *.Rproj
+.Rhistory
