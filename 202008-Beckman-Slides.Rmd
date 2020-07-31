@@ -4,8 +4,8 @@ author: |
   | Matthew Beckman
   | Penn State University
 date: |
-  | Month DD, YYYY
-  | Location
+  | August 4, 2020
+  | JSM Virtual Conference
 
   
 output:
@@ -24,10 +24,7 @@ library(kableExtra)
 
 ```
 
-# Outline
-
-
-# From the skeptics...
+- From the skeptics...
 
 - Seriously?  *Another* learning objective to squeeze in??
 - *Which* statistics course?
@@ -138,7 +135,7 @@ We often lump together Reproducbility and VC as if they're one in the same and s
 \titlepage
 
 
-Include URL for gh-pages site for presentation
+<https://mdbeckman.github.io/JSM2020-Virtual/>
 
 
 
