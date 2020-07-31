@@ -14,7 +14,7 @@ Version control is an essential element of a reproducible workflow deserving due
 ## Agenda
 
   - Nick Horton: Welcome and introduction
-  - Matt Beckman: [Motivation (slides; PDF)](202008-Beckman-Slides.pdf)
+  - Matt Beckman: [Motivation (slides; PDF)](Beckman-Materials/202008-Beckman-Slides.pdf)
   - Adam Sullivan: [Industry & Academic Preparedness (slides; PDF)]()
   - Hunter Glanz: [Git & GitHub Basics (slides? video?)]()
   - Maria Tackett (video): *Coming soon...*
@@ -40,18 +40,18 @@ Version control is an essential element of a reproducible workflow deserving due
 
 ## Panelist Contact
 
-Matthew Beckman
-Penn State University
-mdb268 [at] psu [dot] edu
+**Matthew Beckman**  
+Penn State University  
+mdb268 [at] psu [dot] edu  
 
-Hunter Glanz
-Cal Poly State University
-hglanz [at] calpoly [dot] edu
+**Hunter Glanz**  
+Cal Poly State University  
+hglanz [at] calpoly [dot] edu  
 
-Nicholas Horton (Chair)
-Amherst College
-nhorton [at] amherst [dot] edu
+**Nicholas Horton** (Chair)  
+Amherst College  
+nhorton [at] amherst [dot] edu  
 
-Adam Sullivan
-Takeda Pharmaceutical Company Ltd
-adam.sullivan1 [at] takeda [dot] com
+**Adam Sullivan**  
+Takeda Pharmaceutical Company Ltd  
+
