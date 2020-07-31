@@ -20,8 +20,12 @@ Version control is an essential element of a reproducible workflow deserving due
   - Mine video
   
 ## Other helpful resources
-  - [Supporting Resource (Link)]()
+  - <https://teachdatascience.com/>
+  - [Preprint](https://arxiv.org/abs/2001.01988)
+  - [Reproducibility in Science (Link)](https://ropensci.github.io/reproducibility-guide/)
   - [Another Resource (Link)]()
+  - <https://happygitwithr.com/>
+  - <https://ropensci.org/>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Presentation Title"
+title: "Motivation: Version Control with Git as a Learning Objective in Statistics Courses"
 author: |
   | Matthew Beckman
   | Penn State University
@@ -23,6 +23,42 @@ library(tidyverse)
 library(kableExtra)
 
 ```
+
+# Outline
+
+
+# From the skeptics...
+
+- Seriously?  *Another* learning objective to squeeze in??
+- *Which* statistics course?
+- Can't they just pick it up when they need it? 
+- In fact, *do* they even need it?
+
+
+# Outline
+
+- (computational) Reproducibility: 
+    - self-contained (source data, code book, wrangling script, analysis script, final reporting)
+    - all results replicated (e.g., the code "just works")
+    - easy to verify results or update with new data
+- Version control
+    - maintains the evolution of the project
+    - collaboration among multiple contributors
+    - self-collaboration with multiple computers
+    - branches permit parallel development
+- Ethical practice
+    - Any analysis may require hundreds of tiny decisions
+    - Work products often intended for audience without technical expertise to scrutinize those decisions 
+- Academic Preparedness
+    - programming is a collaborative sport
+    - effective entry point for research participation
+- Industry Preparedness
+    - programming is a collaborative sport
+    - quite common to refresh standard reports 
+
+We often lump together Reproducbility and VC as if they're one in the same and speak of Git(Hub) as a panacea.  They aren't and it isn't, but the investment in good habits with a professional workflow pays off enormously in the long run...
+
+
 
 # Slide 1
 
@@ -75,6 +111,10 @@ library(kableExtra)
 
 1. American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
 
+2. Beckman, M. D., Cetinkaya-Rundel, M., Horton, N., Rundel C., Sullivan A. J., & Tackett, M. (in review). Implementing version control with Git as a learning objective in statistics courses. Preprint URL: https://arxiv.org/pdf/2001.01988.pdf 
+
+3. Kaggle (2017). Kaggle machine learning & data science survey 2017.
+URL: https://www.kaggle.com/kaggle/kaggle-survey-2017
 
 
 # Q & A 
