@@ -11,21 +11,28 @@ Version control is an essential element of a reproducible workflow deserving due
 ![gh-pages for Repo: INSERT URL](QRcode.png)
 
 
-## Resource List
+## Agenda
 
-  - [Beckman (PDF)]()
-  - [Sullivan (PDF)]()
-  - [Glanz (PDF)]()
-  - Maria video
-  - Mine video
+  - Nicholas Horton: Welcome and introduction
+  - Matthew Beckman: [Motivation (slides; PDF)]()
+  - Adam Sullivan: [Industry & Academic Preparedness (slides; PDF)]()
+  - Hunter Glanz: [Enough Git (slides; PDF)]()
+  - Maria Tackett (video): 
+  - Mine Cetinkaya-Rundel: Common Themes
+  - All: Specific implementation 
   
-## Other helpful resources
-  - <https://teachdatascience.com/>
-  - [Preprint](https://arxiv.org/abs/2001.01988)
-  - [Reproducibility in Science (Link)](https://ropensci.github.io/reproducibility-guide/)
-  - [Another Resource (Link)]()
-  - <https://happygitwithr.com/>
+## Key resources that expand on content in this session
+  - [Preprint (in review): Implementing version control with Git as a learning objective in statistics courses](https://arxiv.org/abs/2001.01988)
+  - [eBook: *Happy Git and GitHub for the useR* by Bryan et al. (link)](https://happygitwithr.com/>)
+  - [Blog: *Teach Data Science* by Glanz, Hardin, & Horton (link)](https://teachdatascience.com/)
+  - [eBook: *Data Computing* by Kaplan & Beckman (link)](https://dtkaplan.github.io/DataComputingEbook/)
+      - Ch 9. Collaboration & Reproducibility with Git
+      - Appendix. GitHub-RStudio Configuration
+
+## Even more resources
+  - [eBook: *Reproducibility in Science* (Link)](https://ropensci.github.io/reproducibility-guide/)
   - <https://ropensci.org/>
+  - [Cal Poly STAT 431 Git/GitHub setup guide  (Link)](https://cal-poly-advanced-r.github.io/STAT-431/Canvas_Pages/Week_1-Review/GitHub.html)
 
 
 
