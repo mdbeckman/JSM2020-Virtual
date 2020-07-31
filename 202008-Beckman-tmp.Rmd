@@ -37,6 +37,8 @@ library(kableExtra)
 
 # Outline
 
+- Advisory committee to NSF: Reproducibility describes "the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results... Reproducibility is a minimum necessary condition for a finding to be believable and informative."
+
 - (computational) Reproducibility: 
     - self-contained (source data, code book, wrangling script, analysis script, final reporting)
     - all results replicated (e.g., the code "just works")
@@ -58,6 +60,13 @@ library(kableExtra)
 
 We often lump together Reproducbility and VC as if they're one in the same and speak of Git(Hub) as a panacea.  They aren't and it isn't, but the investment in good habits with a professional workflow pays off enormously in the long run...
 
+- 2014 ASA Curriculum Guidelines push for reproducibility
+- CS education calls for VC in the curriculum (Haaranen & Lehtinen, 2015; Zagalsky et al., 2015)
+- 2017 Kaggle Study
+    - 16k responses
+    - over a third reported using a VC tool
+    - 58% of those using VC use Git
+    - [aside] **a third**... I'll bet there's *something* in one of my classes that fewer than a third of the students are likely to ever use again and could be replaced with VC.  (anyone ever teach Latin Square designs?)
 
 
 # Slide 1
@@ -111,10 +120,16 @@ We often lump together Reproducbility and VC as if they're one in the same and s
 
 1. American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
 
-2. Beckman, M. D., Cetinkaya-Rundel, M., Horton, N., Rundel C., Sullivan A. J., & Tackett, M. (in review). Implementing version control with Git as a learning objective in statistics courses. Preprint URL: https://arxiv.org/pdf/2001.01988.pdf 
+#. Beckman, M. D., Cetinkaya-Rundel, M., Horton, N., Rundel C., Sullivan A. J., & Tackett, M. (in review). Implementing version control with Git as a learning objective in statistics courses. Preprint URL: https://arxiv.org/pdf/2001.01988.pdf 
 
-3. Kaggle (2017). Kaggle machine learning & data science survey 2017.
-URL: https://www.kaggle.com/kaggle/kaggle-survey-2017
+
+#. Haaranen, L. & Lehtinen, T. (2015). Teaching git on the side: Version control system as a course platform, in *Proceedings of the 2015 ACM Conference on Innovation and Technology in Computer Science Education*, ITiCSE '15, ACM, New York, NY, USA, pp. 87–92.  URL: http://doi.acm.org/10.1145/2729094.2742608
+
+
+#. Kaggle (2017). Kaggle machine learning & data science survey 2017. URL: https://www.kaggle.com/kaggle/kaggle-survey-2017
+
+
+#. Zagalsky, A., Feliciano, J., Storey, M.-A., Zhao, Y. & Wang, W. (2015). The emergence of GitHub as a collaborative platform for education, in *Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing*, CSCW '15, ACM, New York, NY, USA, pp. 1906–1917. URL: http://doi.acm.org/10.1145/2675133.2675284
 
 
 # Q & A 
