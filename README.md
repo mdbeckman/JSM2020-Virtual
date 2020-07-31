@@ -8,7 +8,7 @@
 
 Version control is an essential element of a reproducible workflow deserving due consideration among the learning objectives of statistics courses. This panel will discuss experiences & implementation decisions of several contributing faculty--teaching different courses at different institutions-- who have successfully integrated git into one or more statistics courses in order to teach version control. The various approaches described highlight lessons learned and implementation strategy based on student audience, course type, software choices, and assessment practices with a goal of providing the audience motivation for why github is needed and demonstrate a range of implementations across a variety of courses and student populations.
 
-![gh-pages for Repo: INSERT URL](QRcode.png)
+![This webpage: https://mdbeckman.github.io/JSM2020-Virtual/](QRcode.png)
 
 
 ## Agenda
@@ -18,8 +18,9 @@ Version control is an essential element of a reproducible workflow deserving due
   - Adam Sullivan: [Industry & Academic Preparedness (slides; PDF)]()
   - Hunter Glanz: [Enough Git (slides; PDF)]()
   - Maria Tackett (video): 
+  - Panel: Experiences implementing Git as learning objective in statistics courses
   - Mine Cetinkaya-Rundel: Common Themes
-  - All: Specific implementation 
+  - Panel: Q & A
   
 ## Key resources that expand on content in this session
   - [Preprint (in review): Implementing version control with Git as a learning objective in statistics courses](https://arxiv.org/abs/2001.01988)
@@ -30,12 +31,26 @@ Version control is an essential element of a reproducible workflow deserving due
       - Appendix. GitHub-RStudio Configuration
 
 ## Even more resources
-  - [eBook: *Reproducibility in Science* (Link)](https://ropensci.github.io/reproducibility-guide/)
-  - <https://ropensci.org/>
-  - [Cal Poly STAT 431 Git/GitHub setup guide  (Link)](https://cal-poly-advanced-r.github.io/STAT-431/Canvas_Pages/Week_1-Review/GitHub.html)
+  - [eBook: *Reproducibility in Science* (link)](https://ropensci.github.io/reproducibility-guide/)
+  - [rOpenSci (link)](https://ropensci.org/)
+  - [Cal Poly STAT 431 Git/GitHub setup guide  (link)](https://cal-poly-advanced-r.github.io/STAT-431/Canvas_Pages/Week_1-Review/GitHub.html)
 
 
 
-## Contact
+## Panelist Contact
 
+Matthew Beckman
+Penn State University
+mdb268 [at] psu [dot] edu
 
+Hunter Glanz
+Cal Poly State University
+hglanz [at] calpoly [dot] edu
+
+Nicholas Horton (Chair)
+Amherst College
+nhorton [at] amherst [dot] edu
+
+Adam Sullivan
+Takeda Pharmaceutical Company Ltd
+adam.sullivan1 [at] takeda [dot] com
