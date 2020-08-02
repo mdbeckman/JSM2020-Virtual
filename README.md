@@ -32,9 +32,10 @@ Version control is an essential element of a reproducible workflow deserving due
 
 ## Even more resources
   - [eBook: *Reproducibility in Science* (link)](https://ropensci.github.io/reproducibility-guide/)
-  - [rOpenSci (link)](https://ropensci.org/)
   - [GitHub Guides: Hello World](https://guides.github.com/activities/hello-world/)
   - [Cal Poly STAT 431 Git/GitHub setup guide  (link)](https://cal-poly-advanced-r.github.io/STAT-431/Canvas_Pages/Week_1-Review/GitHub.html)
+  - [Git Cheat Sheet (link)](https://education.github.com/git-cheat-sheet-education.pdf)
+  - [rOpenSci (link)](https://ropensci.org/)
 
 
 
