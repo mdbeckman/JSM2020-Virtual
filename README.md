@@ -56,4 +56,4 @@ nhorton [at] amherst [dot] edu
 
 **Adam Sullivan**  
 Takeda Pharmaceutical Company Ltd  
-
+adam [at] sullivanstatistics [dot] com  
