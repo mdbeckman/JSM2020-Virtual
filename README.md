@@ -21,7 +21,7 @@ Version control is an essential element of a reproducible workflow deserving due
   - Panel: Experiences implementing Git as learning objective in statistics courses  
   - Mine Cetinkaya-Rundel ([video](https://youtu.be/H9HHgktYMFE)): Common themes  
   - Panel: Q & A  
-      - Q from Jo Hardin ([video](https://use.vg/LdrN10en7HjQ)): Merge conflict involving a PDF
+      - Q: ([video](https://use.vg/LdrN10en7HjQ)): Merge conflict involving a PDF
   
 ## Key resources that expand on content in this session
   - [Preprint (in review): Implementing version control with Git as a learning objective in statistics courses](https://arxiv.org/abs/2001.01988)
