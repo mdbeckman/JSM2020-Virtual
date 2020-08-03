@@ -24,14 +24,36 @@ library(kableExtra)
 
 ```
 
-# Who cares?
+# Who cares about reproducibility & VC?
 
-- ASA, NSF, CSE, employers, & students
+- American Statistical Association [^1][^2][^3]
+- National Science Foundation [^3] [^4]
+- CS education (e.g., ACM SIGCSE) [^5] [^6]
+- Employers, Practitioners, & Students [^7]
 
-- 2014 Curriculum Guidelines ...Statistical Science
-- 2016 Curriculum Guidelines ...Data Science
-- CS education calls for version control in the curriculum (e.g., Haaranen & Lehtinen, 2015; Zagalsky et al., 2015)
-- 2017 Kaggle Study
+
+[^1]: ASA Undergraduate Guidelines Workgroup (2014)
+[^2]: DeVeaux et al. (2016); a.k.a., The Park City Report
+[^3]: Broman et al. (2017); ASA reproducibility recommendations
+[^4]: Bollen et al. (2015); Cmte recommendations to NSF
+[^5]: Haaranen & Lehtinen (2015); SIGCSE teaching with VC
+[^6]: Zagalsky et al. (2015); SIGSCE teaching VC
+[^7]: Kaggle (2017); user survey 
+
+
+
+# The Kubler-Ross model [^8]
+
+...better known as the 5 stages of grief:
+
+>- **Denial:** We never taught Git before, what's the big deal?
+>- **Anger:** ANOTHER learning objective?!  *SERIOUSLY??*
+>- **Bargaining:** Can't students just pick it up on their own?
+>- **Depression:** I don't know *anything* about Git...
+>- **Acceptance:** Wait, there are buttons in RStudio? Maybe it won't be so bad after all...
+
+
+[^8]: Kübler-Ross E (2005). *On Grief and Grieving: Finding the Meaning of Grief Through the Five Stages of Loss.* Simon & Schuster.
 
 
 
@@ -47,14 +69,14 @@ library(kableExtra)
 - e.g., all code "just works" with no changes needed
 
  
-# Version control
+# Version control (1/2)
 
 - maintains the evolution of the project
 - safely explore alternative solutions/ideas in parallel
 
 ![exploring parallel solutions (<https://guides.github.com/activities/hello-world/>)](branching.png){ width=95% }
 
-# Version control 
+# Version control (2/2)
 
 - collaboration among users
 - self-collaboration--e.g., RStudio Desktop and RStudio Server
@@ -65,8 +87,9 @@ library(kableExtra)
 
 # Reproducibility $\ne$ Version Control
 
-- Sometimes lumped together as if they're one in the same, and it's tempting to speak of Git(Hub) as a panacea... 
-- They aren't and it isn't... 
+Sometimes lumped together as if they're one in the same, and it's tempting to speak of Git(Hub) as a panacea... 
+
+### They aren't and it isn't... 
 
 Our motivation: invest in good habits with a professional workflow designed to streamline **both** virtues.
 
@@ -83,24 +106,11 @@ Our motivation: invest in good habits with a professional workflow designed to s
 - all results can be checked
 - proper scrutiny is possible (now or in future)
 
-# Industry & Academic Preparedness
-    - programming is a collaborative sport
-    - effective entry point for research participation
-- Industry Preparedness
-    - programming is a collaborative sport
-    - quite common to refresh standard reports 
-
-
-
-
-# Acknowledgments
-
-
 
 
 # References
 
-\footnotesize
+\tiny
 
 1. American Statistical Association Undergraduate Guidelines Workgroup (2014). 2014 Curriculum guidelines for undergraduate programs in statistical science. Alexandria, VA: American Statistical Association. http://www.amstat.org/education/curriculumguidelines.cfm
 
@@ -110,6 +120,8 @@ Our motivation: invest in good habits with a professional workflow designed to s
 
 #. Broman, K., Cetinkaya-Rundel, M., Nussbaum, A., Paciorek, C., Peng, R., Turek, D., & Wickham, H. (2017).  Recommendations to Funding Agencies for Supporting Reproducible Research. Alexandria, VA: American Statistical Association.  URL: https://www.amstat.org/asa/files/pdfs/POL-ReproducibleResearchRecommendations.pdf
 
+
+
 #. De Veaux, R. D., et al. (2016). Curriculum Guidelines for Undergraduate Programs in Data Science. *Annual Review of Statistics and Its Application, 4:*2.1-2.16.  URL: https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-060116-053930
 
 #. Haaranen, L. & Lehtinen, T. (2015). Teaching git on the side: Version control system as a course platform, in *Proceedings of the 2015 ACM Conference on Innovation and Technology in Computer Science Education*, ITiCSE '15, ACM, New York, NY, USA, pp. 87–92.  URL: http://doi.acm.org/10.1145/2729094.2742608
@@ -118,23 +130,16 @@ Our motivation: invest in good habits with a professional workflow designed to s
 #. Kaggle (2017). Kaggle machine learning & data science survey 2017. URL: https://www.kaggle.com/kaggle/kaggle-survey-2017
 
 
+#. Zagalsky, A., Feliciano, J., Storey, M.-A., Zhao, Y. & Wang, W. (2015). The emergence of GitHub as a collaborative platform for education, in *Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing*, CSCW '15, ACM, New York, NY, USA, pp. 1906–1917. 
 
-#. Zagalsky, A., Feliciano, J., Storey, M.-A., Zhao, Y. & Wang, W. (2015). The emergence of GitHub as a collaborative platform for education, in *Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing*, CSCW '15, ACM, New York, NY, USA, pp. 1906–1917. URL: http://doi.acm.org/10.1145/2675133.2675284
 
-
-# Q & A 
+# Thank You
 
 
 \titlepage
 
 
 <https://mdbeckman.github.io/JSM2020-Virtual/>
-
-
-
-# Backup slide
-
-
 
 
 
