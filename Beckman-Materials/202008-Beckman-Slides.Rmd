@@ -68,15 +68,7 @@ library(kableExtra)
 - easy to verify results or refresh if source data updates
 - e.g., all code "just works" with no changes needed
 
- 
 # Version control (1/2)
-
-- maintains the evolution of the project
-- safely explore alternative solutions/ideas in parallel
-
-![exploring parallel solutions (<https://guides.github.com/activities/hello-world/>)](branching.png){ width=95% }
-
-# Version control (2/2)
 
 - collaboration among users
 - self-collaboration--e.g., RStudio Desktop and RStudio Server
@@ -85,9 +77,17 @@ library(kableExtra)
 
 
 
+# Version control (2/2)
+
+- maintains the evolution of the project
+- safely explore alternative solutions/ideas in parallel
+
+![exploring parallel solutions (<https://guides.github.com/activities/hello-world/>)](branching.png){ width=95% }
+
+
 # Reproducibility $\ne$ Version Control
 
-Sometimes lumped together as if they're one in the same, and it's tempting to speak of Git(Hub) as a panacea... 
+Sometimes lumped together as if they're one in the same, and it's even tempting to speak of Git(Hub) as a panacea... 
 
 ### They aren't and it isn't... 
 
@@ -97,8 +97,8 @@ Our motivation: invest in good habits with a professional workflow designed to s
 # Ethical practice
 
 - Any analysis may require hundreds of tiny decisions
-- These decisions may necessarily be handled by a single person
-- Work products are often intended for audience without technical expertise to scrutinize those decisions 
+- Many of these decisions may be handled in private by a single person
+- Our work is often intended for audience without the expertise required to scrutinize those decisions 
 
 ### With reproducibility & version control
 
