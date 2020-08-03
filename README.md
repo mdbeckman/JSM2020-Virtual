@@ -14,14 +14,14 @@ Version control is an essential element of a reproducible workflow deserving due
 ## Agenda
 
   - Nick Horton: Welcome and introduction
-  - Matt Beckman: [Motivation (slides; PDF)](Beckman-Materials/202008-Beckman-Slides.pdf)
-  - Adam Sullivan: [Industry & Academic Preparedness (slides; PDF)](Sullivan-Materials/202008-Sullivan-Slides.pdf)
-  - Hunter Glanz: [Git & GitHub Basics (slides? video?)]()
+  - Matt Beckman [(slides; PDF)](Beckman-Materials/202008-Beckman-Slides.pdf): Motivation
+  - Adam Sullivan [(slides; PDF)](Sullivan-Materials/202008-Sullivan-Slides.pdf): Industry & Academic Preparedness 
+  - Hunter Glanz [(slides? video?)](): Git & GitHub Basics 
   - Maria Tackett ([video](https://youtu.be/LJxr30HhuKo)): How I incorporate GitHub into my class
   - Panel: Experiences implementing Git as learning objective in statistics courses
   - Mine Cetinkaya-Rundel ([video](https://youtu.be/H9HHgktYMFE)): Common themes
-  - Jo Hardin question for the panel ([video](https://use.vg/LdrN10en7HjQ)): Merge conflicts
   - Panel: Q & A
+      - Q from Jo Hardin ([video](https://use.vg/LdrN10en7HjQ)): Merge conflict involving a PDF
   
 ## Key resources that expand on content in this session
   - [Preprint (in review): Implementing version control with Git as a learning objective in statistics courses](https://arxiv.org/abs/2001.01988)
