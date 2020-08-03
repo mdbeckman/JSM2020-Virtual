@@ -22,6 +22,11 @@ Version control is an essential element of a reproducible workflow deserving due
   - Mine Cetinkaya-Rundel ([video](https://youtu.be/H9HHgktYMFE)): Common themes  
   - Panel: Q & A  
       - Q: ([video](https://use.vg/LdrN10en7HjQ)): Merge conflict involving a PDF
+      - Q: What have you done to assess the version control component of your courses?
+      - Q: How often should a student expect to commit? pull? push? clone? 
+      - Q: Do you have academic integrity issues due to students sharing Git Repos?
+      - Q: What type of files might cause problems in a version control system?
+      - Q: Do students need to use Git in the terminal?
   
 ## Key resources that expand on content in this session
   - [Preprint (in review): Implementing version control with Git as a learning objective in statistics courses](https://arxiv.org/abs/2001.01988)
