@@ -16,7 +16,7 @@ Version control is an essential element of a reproducible workflow deserving due
   - Nick Horton: Welcome and introduction  
   - Matt Beckman [(slides; PDF)](Beckman-Materials/202008-Beckman-Slides.pdf): Motivation  
   - Adam Sullivan [(slides; PDF)](Sullivan-Materials/202008-Sullivan-Slides.pdf): Industry & Academic Preparedness   
-  - Hunter Glanz [(slides? video?)](): Git & GitHub Basics   
+  - Hunter Glanz [(slides; PDF)](Glanz-Materials/202008-Glanz-Slides.pdf): Git & GitHub Basics   
   - Maria Tackett ([video](https://youtu.be/LJxr30HhuKo)): How I incorporate GitHub into my class  
   - Panel: Experiences implementing Git as learning objective in statistics courses  
   - Mine Cetinkaya-Rundel ([video](https://youtu.be/H9HHgktYMFE)): Common themes  
@@ -35,6 +35,7 @@ Version control is an essential element of a reproducible workflow deserving due
   - [eBook: *Data Computing* by Kaplan & Beckman (link)](https://dtkaplan.github.io/DataComputingEbook/)
       - Ch 9. Collaboration & Reproducibility with Git
       - Appendix. GitHub-RStudio Configuration
+  -[GitHub Desktop Application](https://desktop.github.com/)
 
 ## Even more resources
   - [eBook: *Reproducibility in Science* (link)](https://ropensci.github.io/reproducibility-guide/)
