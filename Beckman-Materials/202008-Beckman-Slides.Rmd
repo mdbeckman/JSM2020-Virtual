@@ -63,6 +63,7 @@ library(kableExtra)
 - completely self-contained including...
     - source data
     - code book
+    - package versions
     - all data wrangling/prep steps
     - recreate all analysis, models, visuals
     - final reporting
