@@ -30,12 +30,12 @@ Version control is an essential element of a reproducible workflow deserving due
   
 ## Key resources that expand on content in this session
   - [Preprint (in review): Implementing version control with Git as a learning objective in statistics courses](https://arxiv.org/abs/2001.01988)
+  -[GitHub Desktop Application](https://desktop.github.com/)
   - [eBook: *Happy Git and GitHub for the useR* by Bryan et al. (link)](https://happygitwithr.com/>)
   - [Blog: *Teach Data Science* by Glanz, Hardin, & Horton (link)](https://teachdatascience.com/)
   - [eBook: *Data Computing* by Kaplan & Beckman (link)](https://dtkaplan.github.io/DataComputingEbook/)
       - Ch 9. Collaboration & Reproducibility with Git
       - Appendix. GitHub-RStudio Configuration
-  -[GitHub Desktop Application](https://desktop.github.com/)
 
 ## Even more resources
   - [eBook: *Reproducibility in Science* (link)](https://ropensci.github.io/reproducibility-guide/)
