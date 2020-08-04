@@ -1,19 +1,19 @@
 ---
-title: "Industry & Academic Peparedness: Version Control and Reproducible Research Outside of the Classroom"
+title: 'Industry & Academic Peparedness: Version Control and Reproducible Research
+  Outside of the Classroom'
 author: |
   | Adam J Sullivan
   | Takeda Pharmaceuticals Company
 date: |
   | August 4, 2020
   | JSM Virtual Conference
-
-  
 output:
-  beamer_presentation: 
+  slidy_presentation:
+    fig_width: 8
+  beamer_presentation:
     colortheme: seagull
     theme: Pittsburgh
-  slidy_presentation: 
-    fig_width: 8
+  ioslides_presentation: default
 ---
 
 ```{r setup, include=FALSE}
