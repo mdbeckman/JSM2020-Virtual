@@ -27,8 +27,8 @@ library(kableExtra)
 # Who cares about reproducibility & VC?
 
 - American Statistical Association [^1][^2][^3]
-- National Science Foundation [^3] [^4]
-- CS education (e.g., ACM SIGCSE) [^5] [^6]
+- National Science Foundation [^3][^4]
+- CS education (e.g., ACM SIGCSE) [^5][^6]
 - Employers, Practitioners, & Students [^7]
 
 
@@ -59,6 +59,7 @@ library(kableExtra)
 
 # Reproducibility: 
 
+- roughly speaking, the code "just works" with no changes needed
 - completely self-contained including...
     - source data
     - code book
@@ -66,7 +67,7 @@ library(kableExtra)
     - recreate all analysis, models, visuals
     - final reporting
 - easy to verify results or refresh if source data updates
-- e.g., all code "just works" with no changes needed
+- ethical practice
 
 # Version control (1/2)
 
